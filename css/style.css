@@ -53,8 +53,19 @@
 .container [class^="swiper-button-"]::after{
     content: "";
 }
+.container .swiper-button-next{
+    left: 90%;
+}
+.container .swiper-button-prev{
+    left: 8%;
+}
 .container .swiper-pagination-bullet{
     width: 18px;
     height: 18px;
     margin: 0 20px;
+}
+#bottom{
+    background-color: rgb(248, 234, 185);
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
