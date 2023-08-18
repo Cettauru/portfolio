@@ -64,6 +64,10 @@
     height: 18px;
     margin: 0 20px;
 }
+#about-me{
+    background-image: url(img/About-BG.png);
+    background-repeat: no-repeat;
+}
 #bottom{
     background-color: rgb(248, 234, 185);
     padding-top: 50px;
