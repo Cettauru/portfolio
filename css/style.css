@@ -68,6 +68,15 @@
     background-image: url(img/About-BG.png);
     background-repeat: no-repeat;
 }
+#title-about{
+    padding-bottom: 75px;
+}
+#about-text-1{
+    padding-top: 220px;
+    padding-bottom: 50px;
+    text-align: center;
+    font-size: 45px;
+}
 #bottom{
     background-color: rgb(248, 234, 185);
     padding-top: 50px;
