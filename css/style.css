@@ -1,3 +1,11 @@
+@font-face{
+    font-family: Gill Sans;
+    src: url(font/GIL_____.TTF);
+}
+@font-face{
+    font-family: playfair;
+    src: url(font/PlayfairDisplayBlack-RpvVA.ttf);
+}
 *{
     margin: 0;
     padding: 0;
@@ -75,15 +83,19 @@
     padding-top: 220px;
     padding-bottom: 50px;
     text-align: center;
+    font-family: playfair;
     font-size: 45px;
+    color: rgb(162, 195, 105);
 }
 #about-text-2{
     padding-bottom: 35px;
     text-align: center;
+    font-family: Gill Sans;
     font-size: 26px;
 }
 #about-text-3{
     text-align: center;
+    font-family: Gill Sans;
     font-size: 26px;
 }
 #bottom{
